@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBuy">#FF99CC00</color> <!-- Зеленый для покупки -->
+    <color name="colorSell">#FFFF4444</color> <!-- Красный для продажи -->
+</resources>
